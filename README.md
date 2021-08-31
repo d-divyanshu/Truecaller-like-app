@@ -89,10 +89,6 @@ Data Structure Briefing:
 ---
 
 
-GROUP MEMBERS	-	ROLL NUMBER	-	TASKS DONE
+Creater	-	TASKS DONE
 
-Anurag Gupta	-	201601006	-	Blocking, Unblocking, Main function, User Interface, Registration of new number, other utility functions 
-
-Garvit kataria	-	201601028	-	Searching the user's number and history integration and deletion, files management 
-
-Anubhav ujjawal	-	201601005	-	Generating the graph and adjacency list creation and history creation
+Divyanshu Upadhyay	-	Blocking, Unblocking, Main function, User Interface, Registration of new number, other utility functions, Searching the user's number and history integration and deletion, files management, Generating the graph and adjacency list creation and history creation
